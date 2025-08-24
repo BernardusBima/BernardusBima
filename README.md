@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BernardusBima/BernardusBima/main/images/banner.png" alt="Banner Profil Bima" width="100%"/>
+<img src="https://raw.githubusercontent.com/BernardusBima/BernardusBima/main/images/Banner.png" alt="Banner Profil Bima" width="100%"/>
 
 ### Halo, Saya Bima! 👋
 
