@@ -26,7 +26,7 @@ Saya percaya bahwa website yang baik adalah perpaduan antara desain yang indah, 
 [![Project 1 Banner](https://raw.githubusercontent.com/BernardusBima/BernardusBima/main/images/Nawasena.png)](https://jayaagungnawasenasemarang.netlify.app/)
 
 **[CV. Jaya Agung Nawasena - Website Company Profile]**
-> Studi kasus lengkap tentang redesign dan pengembangan website company profile untuk perusahaan pengadaan barang dan jasa. Fokus pada desain yang profesional, modern, dan kredibel.
+> Studi kasus lengkap tentang design dan pengembangan website company profile untuk perusahaan pengadaan barang dan jasa. Fokus pada desain yang profesional, modern, dan kredibel.
 
 ---
 
