@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BernardusBima/BernardusBima/main/images/Logo.png" alt="Banner Profil Bima" width="100%"/>
 
-### Halo, Saya Bima! 👋
+### Halo, Saya Bernardus Bima! 👋
 
 Saya seorang **Frontend Web Developer** dari Indonesia dengan spesialisasi dalam membangun Website Company Profile dan Landing Page yang modern dan fungsional.
 
